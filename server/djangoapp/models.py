@@ -23,11 +23,11 @@ CAR_TYPES = [
 ]
 
 ENGINE_FUEL_TYPE = [
-    ('GASOLINE', 'Gasoline'),
-    ('DIESEL', 'Diesel'),
-    ('HYBRID', 'Hybrid'),
-    ('HYBRID-PLUGIN', 'Hybrid plug-in'),
-    ('FULL-ELECTRIC', 'Full Electric'),
+    ('Gasoline', 'Gasoline'),
+    ('Diesel', 'Diesel'),
+    ('Hybrid', 'Hybrid'),
+    ('Plug-in', 'Plug-in'),
+    ('Electric', 'Electric'),
 ]
 
 # CAR MODEL CLASS
